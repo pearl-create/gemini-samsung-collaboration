@@ -36,7 +36,7 @@ st.markdown("---")
 
 # 갤럭시 S24 시리즈
 st.subheader("갤럭시 AI: 온디바이스 AI의 시작")
-st.image("https://images.samsung.com/is/image/samsung/assets/global/about-us/gemini/galaxy-ai/galaxy-s24.png", caption="갤럭시 S24 시리즈", use_container_width=True) # <-- 이 부분 수정
+st.image("https://magazine.cheil.com/wp-content/uploads/2024/03/%EC%BD%98%ED%85%90%EC%B8%A0_960_600-1-3.jpg", caption="갤럭시 S24 시리즈", use_container_width=True) # <-- 이 부분 수정
 st.write("""
 삼성 **갤럭시 S24 시리즈**에 탑재된 **'갤럭시 AI'**는 Gemini의 기술을 활용해 혁신적인 온디바이스 AI 경험을 제공합니다. 
 주요 기능으로는 **실시간 통역 통화**, **'서클 투 서치'**, **생성형 편집** 등이 있습니다. 
