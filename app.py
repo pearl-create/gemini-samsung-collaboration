@@ -22,7 +22,7 @@ st.write("""
 
 # 이재용 회장 사진 추가
 st.subheader("리더십의 비전")
-st.image("https://example.com/lee_jae_yong.jpg", caption="이재용 삼성전자 회장", use_container_width=True) # <-- 이 부분 수정
+st.image("https://cdn.dailycc.net/news/photo/202312/765910_670599_189.png", caption="이재용 삼성전자 회장", use_container_width=True) # <-- 이 부분 수정
 st.write("""
 이재용 삼성전자 회장은 기술 혁신과 미래 비전을 강조하며, 구글과의 협력을 통해 새로운 시너지를 창출하고 글로벌 AI 시대를 선도하겠다는 강력한 의지를 보이고 있습니다. 
 그의 리더십 아래 삼성은 끊임없이 진화하며 인류의 삶에 기여할 것입니다.
