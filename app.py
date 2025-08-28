@@ -22,7 +22,7 @@ st.write("""
 
 # 이재용 회장 사진 추가
 st.subheader("리더십의 비전")
-st.image("https://example.com/lee_jae_yong.jpg", caption="이재용 삼성전자 회장", use_column_width=True) # 여기에 실제 이미지 URL을 넣으세요.
+st.image("https://example.com/lee_jae_yong.jpg", caption="이재용 삼성전자 회장", use_container_width=True) # <-- 이 부분 수정
 st.write("""
 이재용 삼성전자 회장은 기술 혁신과 미래 비전을 강조하며, 구글과의 협력을 통해 새로운 시너지를 창출하고 글로벌 AI 시대를 선도하겠다는 강력한 의지를 보이고 있습니다. 
 그의 리더십 아래 삼성은 끊임없이 진화하며 인류의 삶에 기여할 것입니다.
@@ -36,7 +36,7 @@ st.markdown("---")
 
 # 갤럭시 S24 시리즈
 st.subheader("갤럭시 AI: 온디바이스 AI의 시작")
-st.image("https://images.samsung.com/is/image/samsung/assets/global/about-us/gemini/galaxy-ai/galaxy-s24.png", caption="갤럭시 S24 시리즈", use_column_width=True)
+st.image("https://images.samsung.com/is/image/samsung/assets/global/about-us/gemini/galaxy-ai/galaxy-s24.png", caption="갤럭시 S24 시리즈", use_container_width=True) # <-- 이 부분 수정
 st.write("""
 삼성 **갤럭시 S24 시리즈**에 탑재된 **'갤럭시 AI'**는 Gemini의 기술을 활용해 혁신적인 온디바이스 AI 경험을 제공합니다. 
 주요 기능으로는 **실시간 통역 통화**, **'서클 투 서치'**, **생성형 편집** 등이 있습니다. 
@@ -60,7 +60,7 @@ st.write("---")
 
 # 당첨률 100% 갤럭시탭 이벤트 섹션 추가
 st.header("🎉 당첨률 100% 갤럭시탭 이벤트!")
-st.image("https://example.com/galaxy_tab_event.jpg", caption="갤럭시탭 이벤트", use_column_width=True) # 여기에 실제 이미지 URL을 넣으세요.
+st.image("https://example.com/galaxy_tab_event.jpg", caption="갤럭시탭 이벤트", use_container_width=True) # <-- 이 부분 수정
 st.write("""
 **지금 바로 참여하세요!** 'Gemini와 삼성의 콜라보' 웹페이지 방문객 모두에게 **갤럭시탭**을 드립니다!
 
